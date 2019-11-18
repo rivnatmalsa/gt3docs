@@ -2,7 +2,7 @@ publish_mode: editorial_workflow
 backend:
   name: github
   repo: rivnatmalsa/gt3docs
-  base_url: https://g94jypdp94.execute-api.us-east-1.amazonaws.com/prod
+  base_url: https://9ud4hnm18f.execute-api.us-east-1.amazonaws.com/prod
   auth_endpoint: /auth
 site_id: http://docs-portal-gt3.s3-website-us-east-1.amazonaws.com/
 media_folder: "static/images"
